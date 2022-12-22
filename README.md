@@ -1,7 +1,8 @@
 # Tech-Resources
 <h2>Web Development</h2>
+<hr>
 Learn Web Development for free��� with Hands-on :
-
+<hr>
 <a href="https://learn-html.org/">HTML</a>
 <hr>
 <a href="https://css-tricks.com/">CSS</a>
