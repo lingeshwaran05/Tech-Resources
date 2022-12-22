@@ -1,19 +1,19 @@
 # Tech-Resources
 <h2>Web Development</h2>
-Learn Web Development for freeí±‡ with Hands-on :
+Learn Web Development for freeï¿½ï¿½ï¿½ with Hands-on :
 
-<a href="Learn-html.org">HTML</a>
+<a href="https://learn-html.org/">HTML</a>
 <hr>
-<a href="CSS-tricks.com">CSS</a>
+<a href="https://css-tricks.com/">CSS</a>
 <hr>
-<a href="LearnJavaScript.online">JavaScript</a>
+<a href="https://learnjavascript.online/">JavaScript</a>
 <hr>
-<a href="LearnGitBranching.js.org">GIT</a>
+<a href="https://learngitbranching.js.org/">GIT</a>
 <hr>
-<a href="React-tutorial.app">REACT</a>
+<a href="https://react-tutorial.app/">REACT</a>
 <hr>
-<a href="Theodinproject.com">NODEJS</a>
+<a href="https://www.theodinproject.com/">NODEJS</a>
 <hr>
-<a href="SQLbolt.com">SQL</a>
+<a href="https://sqlbolt.com/">SQL</a>
 <hr>
-<a href="Metaschool.so">WEB3</a>
+<a href="https://metaschool.so/">WEB3</a>
